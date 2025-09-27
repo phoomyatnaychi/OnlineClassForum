@@ -189,4 +189,3 @@ views/
 - Error modes: will `die()` with the connection error message if connect fails.
 
 ---
-If you want, I can patch `app/config/db.php` with the recommended snippet and add a CLI test as well — tell me if you want that.
